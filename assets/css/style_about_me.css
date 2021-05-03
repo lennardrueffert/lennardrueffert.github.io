@@ -1,0 +1,10 @@
+body {
+    background-color: #0c0c0c;
+}
+
+#placeholder_text {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
